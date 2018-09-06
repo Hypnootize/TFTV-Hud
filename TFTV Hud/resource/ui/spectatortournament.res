@@ -10,14 +10,14 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 				
-		"team1_player_base_offset_x"		"-401"
-		"team1_player_base_y"				"175"
+		"team1_player_base_offset_x"		"0"
+		"team1_player_base_y"				"300"
 		"team1_player_delta_x"				"0"
 		"team1_player_delta_y"				"20"
-		"team2_player_base_offset_x"		"-401"
+		"team2_player_base_offset_x"		"0"
 		"team2_player_base_y"				"263"
 		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"20"
+		"team2_player_delta_y"				"-20"
 		
 		"playerpanels_kv"
 		{
